@@ -17,3 +17,6 @@ I have made a Weather App through which user will be able to  find out the live 
 
 
 ## How it looks finally!!!
+
+https://user-images.githubusercontent.com/78846281/132951143-35883f8a-f4d3-45e8-bd35-43089ba12400.mp4
+
